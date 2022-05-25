@@ -4,7 +4,14 @@ TODO
 2022
 ---------
 
-05/ 11
+05 / 25
+
+- build ubuntu image::
+	modules
+	rules
+	gnome-session-wayland
+
+05 / 11
 
 - kernel debug
 - shell script
