@@ -4,6 +4,10 @@ TODO
 2022
 ---------
 
+06 / 08
+
+- test wiringPi on Ubuntu 22.04
+
 05 / 25
 
 - build ubuntu image::
