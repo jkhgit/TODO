@@ -4,6 +4,12 @@ TODO
 2022
 ---------
 
+06 / 15
+
+- add mcp2515 driver
+- add DHT11 driver
+- ROS melodic with docker in M1
+
 06 / 08
 
 - test wiringPi on Ubuntu 22.04
