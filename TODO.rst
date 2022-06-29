@@ -4,6 +4,11 @@ TODO
 2022
 ---------
 
+06 / 29
+
+- can protocol bit-stream check
+- wiringpi test
+
 06 / 15
 
 - add mcp2515 driver
